@@ -48,11 +48,11 @@ I'm a developer passionate about learning and building innovative solutions. I l
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithSameer04&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400)
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CodeWithSameer04&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithSameer04&layout=compact&theme=radical&hide_border=true&langs_count=8)
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CodeWithSameer04&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeWithSameer04&theme=radical&hide_border=true)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithSameer04&theme=radical&hide_border=true" alt="GitHub Streak" />
   
 </div>
 
@@ -62,7 +62,7 @@ I'm a developer passionate about learning and building innovative solutions. I l
 
 <div align="center">
   
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=CodeWithSameer04&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
+  <img src="https://github-profile-trophy.vercel.app/?username=CodeWithSameer04&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
   
 </div>
 
@@ -72,7 +72,7 @@ I'm a developer passionate about learning and building innovative solutions. I l
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeWithSameer04&theme=react-dark&hide_border=true)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithSameer04&theme=react-dark&hide_border=true" alt="Activity Graph" />
   
 </div>
 
