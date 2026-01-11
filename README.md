@@ -3,6 +3,17 @@
   <p><em>Passionate Developer | Continuous Learner | Tech Enthusiast</em></p>
 </div>
 
+<!-- 
+  📝 Customization Guide:
+  - Update the "About Me" section with your personal information
+  - Modify the "Skills & Technologies" badges to match your actual tech stack
+  - The stats, graphs, and trophies will automatically display your GitHub activity
+  - Update social media links in the "Connect With Me" section
+  - Feel free to add or remove sections based on your preferences!
+  
+  For more badge styles, visit: https://shields.io/
+-->
+
 ---
 
 ## 🚀 About Me
@@ -84,6 +95,15 @@ I'm a developer passionate about learning and building innovative solutions. I l
 ---
 
 ## 📫 Connect With Me
+
+<!-- 
+  💡 Tip: Update the links below with your actual social media profiles!
+  Replace:
+  - 'your-profile' with your LinkedIn username
+  - 'your-handle' with your Twitter handle
+  - 'your.email@example.com' with your actual email
+  You can also add more platforms like Instagram, Discord, YouTube, etc.
+-->
 
 <div align="center">
   
