@@ -48,9 +48,13 @@ I'm a developer passionate about learning and building innovative solutions. I l
 
 <div align="center">
   
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CodeWithSameer04&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeWithSameer04&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CodeWithSameer04&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithSameer04&layout=compact&theme=radical&hide_border=true&langs_count=10&card_width=320" alt="Top Languages" />
+  
+</div>
+
+<div align="center">
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithSameer04&theme=radical&hide_border=true" alt="GitHub Streak" />
   
