@@ -7,13 +7,13 @@
 
 ## 🚀 About Me
 
-I'm a developer passionate about learning and building innovative solutions. I love exploring new technologies and sharing my knowledge with the community.
+I'm a developer passionate about learning and building innovative solutions. I love exploring new technologies and sharing my knowledge with the community. I love to code.
 
 - 🔭 I'm currently working on **personal projects and open-source contributions**
 - 🌱 I'm currently learning **new frameworks and technologies**
 - 👯 I'm looking to collaborate on **interesting open-source projects**
 - 💬 Ask me about **web development, programming, and technology**
-- 📫 How to reach me: Check out my social links below
+- 📫 How to reach me: Check out my social links below 
 - ⚡ Fun fact: **I love coding and solving problems!**
 
 ---
