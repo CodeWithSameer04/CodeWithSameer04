@@ -13,7 +13,7 @@ I'm a developer passionate about learning and building innovative solutions. I l
 - 🌱 I'm currently learning **new frameworks and technologies**
 - 👯 I'm looking to collaborate on **interesting open-source projects**
 - 💬 Ask me about **web development, programming, and technology**
-- 📫 How to reach me: Check out my social links below...
+- 📫 How to reach me: Check out my social links below
 - ⚡ Fun fact: **I love coding and solving problems!**
 
 ---
