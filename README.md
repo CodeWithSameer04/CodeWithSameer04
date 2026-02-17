@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Sameer!</h1>
-  <p><em>Passionate Developer | Continuous Learner | Tech Enthusiast!</em></p>
+  <p><em>Passionate Developer | Continuous Learner | Tech Enthusiast</em></p>
 </div>
 
 ---
